@@ -1,7 +1,0 @@
-{
-  "owner_id": "20547547",
-  "access_token": "bbc0d491bbc0d491bbc0d4918abbb31407bbbc0bbc0d491e49008889406b7ff90298be3",
-  "count": 13,
-  "adres_for_save": "photos",
-  "YaToken": "OAuth AgAAAABE6BgnAADLWwHTqEvB2kmbuCy5DDji7to"
-}
